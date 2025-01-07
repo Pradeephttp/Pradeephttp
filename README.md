@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Pradeephttp
-- My fullname is Pradeep Mourya
+- 👋 Hi, I’m Pradeep Mourya @Pradeephttp 
 - 👀 I’m interested in Back-End Development
 - 🌱 I’m currently learning Spring-boot
 - 💞️ I’m looking to collaborate on ...
